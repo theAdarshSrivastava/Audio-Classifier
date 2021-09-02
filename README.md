@@ -1,6 +1,6 @@
 # Audio-Classifier
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://github.com/librosa/librosa]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
