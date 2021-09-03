@@ -9,4 +9,19 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/theAdarshSrivastava/Audio-Classifier/blob/main/LICENSE
 
+An audio classifier which uses simple ANN network to classify the audio of UrbanSound8k dataset upto with 90% accuracy. 
+It contains librosa library which is used to analyse and extract features from the audio file.
+
+# Dataset
+
+You can download the dataset by clicking on the link given below:
+[Download Dataset](https://drive.google.com/drive/folders/1U3mRpjfYVtvMi9zVGi3fmK-r8OkW-Q7x?usp=sharing)~5.6 GB
+
+# Architecture
+
+
+# Model
+
+You can download the model by just clicking on the link mentioned below:
+[Download Model](https://drive.google.com/file/d/1qDyDnWHc2wwPxHf7MUUeOEQfl23geonM/view?usp=sharing)
 
