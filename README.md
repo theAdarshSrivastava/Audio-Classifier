@@ -2,7 +2,7 @@
 
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][https://img.shields.io/badge/-the_adarsh6700-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/the_adarsh6700/]][https://www.instagram.com/the_adarsh6700/]
+[![Instagram](https://img.shields.io/badge/-the_adarsh6700-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/the_adarsh6700/)](https://www.instagram.com/the_adarsh6700/)
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/theAdarshSrivastava/Audio-Classifier/blob/main/LICENSE
