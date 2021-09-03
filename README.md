@@ -20,7 +20,7 @@ You can download the dataset by clicking on the link given below:
 
 # Architecture
 
-
+<img src = "Assets/model.png" height = 800px width = 600px>
 
 # Model
 
