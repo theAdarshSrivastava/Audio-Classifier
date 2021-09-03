@@ -45,6 +45,6 @@ You can download the model by just clicking on the link mentioned below:
    ```bash
    git clone https://github.com/theAdarshSrivastava/Audio-Classifier/.git
    ```
-3. Run the audio_classifier.ipynb using jupyter notebook
+3. Run the Audio_Classification.ipynb using jupyter notebook
 
 ---
