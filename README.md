@@ -14,10 +14,12 @@ It contains librosa library which is used to analyse and extract features from t
 
 # Dataset
 
+The dataset used has 10 classes each with different audio classes. These classes are 'air_conditioner','car_horn','children_playing','dog_bark','drilling','engine_idling','gun_shot','jackhammer','siren','street_music'
 You can download the dataset by clicking on the link given below:
 [Download Dataset](https://drive.google.com/drive/folders/1U3mRpjfYVtvMi9zVGi3fmK-r8OkW-Q7x?usp=sharing)~5.6 GB
 
 # Architecture
+
 
 
 # Model
