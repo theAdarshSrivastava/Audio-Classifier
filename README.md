@@ -1,4 +1,4 @@
-<h1 align="center"> Audio-Classifier </h1>
+# Audio-Classifier
 
 [![MIT License](https://img.shields.io/badge/-License-red?style=flat-square&logo=License&logoColor=white&link=https://github.com/theAdarshSrivastava/Audio-Classifier/blob/main/LICENSE)](https://github.com/theAdarshSrivastava/Audio-Classifier/blob/main/LICENSE)
 [![Linkedin Badge](https://img.shields.io/badge/-theadarshsrivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/theadarshsrivastava)](www.linkedin.com/in/theadarshsrivastava)
