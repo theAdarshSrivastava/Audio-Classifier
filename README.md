@@ -8,6 +8,7 @@
 [license-url]: https://github.com/theAdarshSrivastava/Audio-Classifier/blob/main/LICENSE
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=theAdarshSrivastava&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theAdarshSrivastava&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theAdarshSrivastava.theAdarshSrivastava)
